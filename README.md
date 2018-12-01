@@ -3,9 +3,9 @@
 
 ###效果图：
 #####翻译文件：
-![pdf_picture1]("https://github.com/GDUT-Rp/PDF_translate/raw/master/show/pdf_picture1.png")
+![pdf_picture1](https://github.com/GDUT-Rp/PDF_translate/raw/master/show/pdf_picture1.png)
 #####翻译后保存在txt文件
-![txt_pciture1]("https://github.com/GDUT-Rp/PDF_translate/raw/master/show/txt_1_picture.png")
+![txt_pciture1](https://github.com/GDUT-Rp/PDF_translate/raw/master/show/txt_1_picture.png)
 
 ####所需第三方库
 pdfminer3k 1.3.1
