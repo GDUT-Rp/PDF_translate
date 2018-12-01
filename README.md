@@ -1,0 +1,2 @@
+# PDF_translate
+翻译PDF英文，通过Python调取第三方库及接口进行翻译PDF文件
